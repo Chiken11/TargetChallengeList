@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=dPKQ9nfH_iI",
             "percent": 100,
             "hz": 144
-        }
+        },
+        {
+            "user": "JoeBeSlow",
+            "link": "https://youtu.be/4fR_-RN774M?si=c_vlDHinHEsf4tFH",
+            "percent": 100,
+            "hz": 240
+        },
     ]
 }
