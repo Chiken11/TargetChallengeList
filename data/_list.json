@@ -8,5 +8,6 @@
     "ShipCopterTarget",
     "4SecondsOfTarget",
     "TheTarget",
-    "TargetGuy"
+    "TargetGuy",
+    "FreeTargetPoints"
 ]
