@@ -1,6 +1,6 @@
 {
     "id": 111603299,
-    "name": "4 Seconds Of Target",
+    "name": "Straight Fli Target",
     "author": "1b4me",
     "creators": ["1b4me"],
     "verifier": "1b4me",
@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free",
     "records": [
+        {
+            "user": "Chiken11",
+            "link": "https://youtu.be/VnyBmu-XBjY",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
