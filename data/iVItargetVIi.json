@@ -18,7 +18,13 @@
             "user": "JoeBeSlow",
             "link": "https://youtu.be/4fR_-RN774M?si=c_vlDHinHEsf4tFH",
             "percent": 100,
-            "hz": 240
+            "hz": 144
         },
+                        {
+            "user": "BridhalsGD",
+            "link": "https://www.youtube.com/watch?v=I4F-IA-pvig",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
