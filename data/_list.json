@@ -10,13 +10,13 @@
     "TargetAbyss",
     "StraightFliTarget",
     "TargetIntro",
-    "TargetCircles",
     "4SecondsOfTarget",
     "AetargetClicks",
     "SlowDownTarget",
     "TargetAnxiety",
     "ShipCopterTarget",
     "TheTarget",
+    "TargetCircles",
     "FreeTargetPoints",
     "TargetGuy"
 ]
