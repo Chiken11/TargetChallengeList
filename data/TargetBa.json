@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/DADYN1t0B-E",
     "percentToQualify": 100,
     "password": "Free",
-    "records": [
+    "records": [        
+        {
+            "user": "BridhalsGD",
+            "link": "https://youtu.be/Winwe1IlfR8",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
