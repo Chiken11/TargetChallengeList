@@ -20,9 +20,9 @@
     "AetargetClicks",
     "TargetAbyss",
     "TargetAnxiety",
-    "SlowDownTarget",
     "ShipCopterTarget",
     "TheTarget",
+    "SlowDownTarget",
     "TargetCircles",
     "FreeTargetPoints",
     "TargetGuy"
