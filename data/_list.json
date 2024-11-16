@@ -26,5 +26,6 @@
     "SlowDownTarget",
     "TargetCircles",
     "FreeTargetPoints",
-    "TargetGuy"
+    "TargetGuy",
+    "TargetGettingFood"
 ]
