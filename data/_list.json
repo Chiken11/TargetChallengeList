@@ -27,5 +27,6 @@
     "TargetCircles",
     "FreeTargetPoints",
     "TargetGuy",
-    "TargetGettingFood"
+    "TargetGettingFood",
+    "TargetTrials"
 ]
