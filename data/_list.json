@@ -19,6 +19,7 @@
     "4SecondsOfTarget",
     "AetargetClicks",
     "TargetAbyss",
+    "TargetGettingFood",
     "TargetAnxiety",
     "TargetTrials",
     "ShipCopterTarget",
@@ -27,6 +28,5 @@
     "TargetCircles",
     "FreeTargetPoints",
     "TargetGuy",
-    "TargetGettingFood",
     "521targetlightposts"
 ]
