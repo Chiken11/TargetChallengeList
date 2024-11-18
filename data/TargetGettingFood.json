@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free",
     "records": [
+        {
+            "user": "BridhalsGD",
+            "link": "https://youtu.be/vh5J3G6Otuk",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
