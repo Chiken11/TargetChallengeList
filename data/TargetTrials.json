@@ -7,6 +7,18 @@
     "verification": "https://youtu.be/7EuUXu8t290",
     "percentToQualify": 100,
     "password": "Free",
-    "records": [
+    "records": [        
+        {
+            "user": "Chiken11",
+            "link": "https://youtu.be/tm2FBfy_z1c",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BridhalsGD",
+            "link": "https://youtu.be/fuOCIOJBY1E",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
