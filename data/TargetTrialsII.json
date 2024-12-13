@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/dIh5P6zYzgU",
     "percentToQualify": 100,
     "password": "Free",
-    "records": [
+    "records": [        
+        {
+            "user": "Chiken11",
+            "link": "https://www.youtube.com/watch?v=yzdHPuUknx4",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
