@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free",
     "records": [    
+        {
+            "user": "Chiken11",
+            "link": "https://youtu.be/pRNbu1Nni3I",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
