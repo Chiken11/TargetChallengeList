@@ -1,0 +1,18 @@
+{
+    "id": 114357925,
+    "name": "Target Taxes",
+    "author": "GDTomon",
+    "creators": ["GDTomon"],
+    "verifier": "GDTomon",
+    "verification": "https://youtu.be/_KqFHXhTTJo",
+    "percentToQualify": 100,
+    "password": "Free",
+    "records": [
+        {
+            "user": "Chiken11",
+            "link": "https://youtu.be/VOF0FLXLNUc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
